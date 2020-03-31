@@ -1,0 +1,577 @@
+abstract data type
+abstraction
+algorithm
+aggregate function
+advice
+AND operator
+API
+application program interface
+applet
+application domain
+argument
+arithmetic expression
+aspect-oriented programming
+aspect-oriented software development
+aspects
+assembler
+assign
+atomic operation
+attribute
+authoring tool
+attribute-based programming
+background process
+backdoor access
+base address
+base class
+batch processing
+bind
+bitwise operator
+BLOB
+Boolean expression
+Boolean logic
+Boolean operator
+boot
+boot loader
+boot sequence
+bubble sort
+breakpoint
+break-even point
+bytecode
+call
+character treatment
+class
+class library
+clean boot
+clean install
+Client Application Services
+code
+compile
+component
+concatenate
+concatenation
+conditional
+constant
+control
+core logic
+Cross-compiler
+data type
+datalog
+debug
+debugger
+declare
+decrement
+deep learning
+deep link
+delimiter
+deprecated
+derived class
+DLL
+Document Type Declaration
+dynamic data structure
+dynamic function loading
+dynamic variable
+encapsulation
+engine
+event
+event handler
+exception
+exclusive OR
+execute
+execution environment
+EE
+Executive Support System
+expression
+Expression Builders
+fail soft
+file allocation table
+fatal error
+fatal exception error
+filter
+flag
+flow control
+function
+function block
+function block adapter
+hashing
+identifier
+inclusive OR operator
+increment
+inheritance
+initialize
+instruction
+interface
+interpreter
+invocation
+invoke
+iteration
+keyword
+Lambda Expression
+library
+line
+link
+linked list
+listing
+literal
+localization
+low-level language
+machine language
+macro
+map
+mask
+Master Page
+memory leak
+MAX function
+message passing
+metadata
+Message Passing Interface
+method
+microcode
+module
+multitasking
+name
+namespace
+native code
+nesting
+NOR operator
+normalization
+NOT operator
+object
+object code
+object oriented
+operand
+operator
+optimize
+OR operator
+opcode
+overhead
+overloading
+parameter
+parse
+parser
+partial classes
+partial methods
+patch
+pattern
+pointer
+polymorphism
+portlet
+power cycling
+program
+primitive
+proximity operator
+programming language
+pseudocode
+query language
+read
+recursion
+refactoring
+reflection
+relational operator
+reserved word
+routine
+runtime
+runtime error
+sandbox
+script
+selection
+sequence
+serialization
+simulation
+socket
+Software Configuration Management
+Software Quality Assurance
+source code
+source code control system
+source code manager
+structured query language
+sql
+stateless
+statement
+static data structure
+static testing
+static variable
+stop error
+storage testing
+stored procedure
+stub
+subscript
+syntax
+system call
+systems integrator
+tag
+ternary operator
+Time-out
+trigger
+truncate
+tweak
+type
+Two-tier
+Type-safe
+underflow
+unusual software bug
+validation
+variable
+virtual machine
+warm boot
+Web services
+widget
+word
+zombie
+alert box
+annotation
+architecture
+assembly
+associate
+authentication
+authoring tool
+autotracing
+Business-to-business
+business-to-consumer
+backport
+backward compatible
+bake-off
+binary compatible
+block
+branch
+bug
+build
+bundled software
+business process
+business services provider
+computer-aided design
+computer-aided design and drafting
+casters-up mode
+character treatment
+check box
+class library
+clean install
+cloud database
+cloud enablement
+cloud management
+cloud migration
+cloud portability
+cloud provider
+cloud service
+cloud testing
+cloud-based
+cloud computing accounting software
+cms
+collapse
+command driven
+compatible
+component software
+composite applications
+configuration
+configurator
+configure
+container
+context sensitive
+copy data
+current
+cursor
+cursor position
+data center management
+data center container 
+data migration
+database software
+data center infrastructure management
+database management system
+default
+delete
+deploy
+distributed database
+document management
+documentation
+device software optimization
+dso
+dsi
+dsom
+event driven architecture
+electronic data interchange
+edi
+event
+exploded view
+fatal exception error
+feature
+feature creep
+field
+filter
+floating
+flow
+flush
+form
+forms processing
+formula
+front end
+functional specification
+graphics
+grid
+GUI
+graphical user interface
+hardware abstraction layer
+header
+icon
+image dimensions
+I-beam pointer
+insert
+insert mode
+install
+integrated
+integrated development environment
+ide
+justification
+justify
+label
+layout
+learn mode
+legacy application
+manual recalculation
+management software
+menu bar
+menu driven
+microservice architecture 
+middleware
+minimize button
+modal window
+mode
+motion vector
+moving-bar menu
+native code
+name server
+network software
+open source
+open Source Initiative
+open source tools
+option
+orientation
+overlaid windows
+overwrite mode
+page break
+pagination
+paste
+patch
+Plug-in
+pointer
+portable
+pop-up window
+prompt
+public-domain software
+pull-down menu
+range
+readme file
+Real-Time Optimization
+real time
+recalculate
+refactoring
+regression testing
+redundant
+reflection
+relative cell reference
+release candidate
+remote software
+repaginate
+replace
+robust
+row
+rule
+ruler
+scroll bar
+search and replace
+secure delete
+security information management
+security software
+select
+self-extracting file
+release to manufacturing
+rtm
+seat
+siem
+security information and event management
+single pane of glass
+single-user interface
+size
+software
+Software Configuration Management
+software cooling
+software entropy
+software licensing
+software package
+static testing
+status bar
+storage testing
+structured data
+support
+system requirements
+system resource
+taskbar
+title bar
+tiled windows
+toolbar
+track changes
+undocumented
+upgrade
+user interface
+vector graphics
+viewer
+widget
+widow
+Webware
+upward compatible
+window
+wizard
+word
+word processing
+wrapper
+authorization and accounting
+automatic backup system
+adaptive binary optimization
+active archiving
+active data
+acknowledgement code
+actual size
+alphanumeric
+analog
+analog to digital converter
+application Delivery Controller
+application Delivery Network
+application log
+array
+array processor
+attribute
+automatic online backup
+automatic fall-over
+availability
+backup window
+BAK file
+ASCII
+ANSI Character Set
+bit error rate
+bit error rate test
+Big Data
+binary
+binary file
+binary format
+binary tree
+binary-coded decimal
+bit
+blank character
+BLOB
+block
+block-level storage
+bit flip
+browse
+byte
+character
+character set
+character string
+checksum
+cloud backup
+cloud backup service provider
+cloud backup solutions
+cluster
+common operating environment
+compound document
+compressed sensing
+container format
+control character
+congestion notification
+copy data
+corrupted
+data
+data compression
+data deduplication
+data dictionary
+data cleansing
+data entry
+data independence
+data integrity
+data logging
+data marshalling
+data mining
+data processing
+data services
+data set
+data structure
+data synchronization
+data virtualization
+database software
+day forward
+double-byte character set
+disk based data protection
+decimal
+decode
+decoder
+digital mapping
+dirty bit
+dirty data
+disk array
+disk compression
+distributed file system
+data loss prevention
+domain migration
+double precision
+encode
+encoder
+encoding
+encryption algorithm
+entropy coding
+EOF mark
+EOL mark
+error correction
+error detection
+escape character
+escape sequence
+export
+file format
+file-level storage
+format
+header
+heap
+hexadecimal
+import
+information interoperability
+input
+integer
+linked list
+list
+matrix
+megabyte
+metadata
+normalization
+master data management 
+open source storage
+packed file
+padding
+page
+precision
+queue
+raw
+random access
+raw data
+read
+Read-only
+record
+remote backup
+replication
+resource locking
+sampling
+serialization
+server administrator
+spatial compression
+spatial data
+special character
+stack
+storage resource management
+structured data
+system log
+system management
+template
+terabyte
+trigger
+unpack
+unstructured data
+validation
+Web services
+write
+active archiving
+bit rate
