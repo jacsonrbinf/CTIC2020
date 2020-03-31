@@ -1,0 +1,6 @@
+Quantidade de termos totais 60991362
+Quantidade de termos no título 2456018
+Quantidade de termos descrição 22488662
+Quantidade de termos comentários 36046682
+Quantidade de documentos analisados 3075304
+Quantidade de termos novos adicionados no vocabulário 63
